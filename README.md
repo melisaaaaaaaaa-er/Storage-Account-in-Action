@@ -1,6 +1,8 @@
 # Storage Account in Action
 
-This lab shows a simple Azure storage account usecase.
+<h3>Purpose</h3>
+
+- Show a simple Azure Storage Account usecase.
 
 <h2>Actions and Observations</h2>
 
